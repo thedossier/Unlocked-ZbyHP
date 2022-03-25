@@ -1,5 +1,5 @@
 # Unlocked-ZbyHP
-Unlocked miniseries competition by Hewlett-Packard
+Unlocked mini-series competition by Hewlett-Packard
 
 Honestly the most unique challenges I have ever done. This was an awesome competition put on by HP. 
 Really touched a lot of different skill sets. Visualization, audio processing, image processing and
